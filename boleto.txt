@@ -1,0 +1,7 @@
+BOLETO:
+Hamburguer x2 - R$ 25.00
+Batata x3 - R$ 18.00
+Refrigerante x1 - R$ 5.00
+
+TOTAL: R$ 48.00
+
